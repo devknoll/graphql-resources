@@ -16,6 +16,12 @@ https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.h
 https://facebook.github.io/react/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html
 https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html
 
+Relay/GraphQL implementation details from GitHub:
+
+https://github.com/facebook/react/pull/3920#issuecomment-104711512
+https://github.com/facebook/react/pull/3920#issuecomment-104885884
+https://github.com/facebook/react/pull/3920#issuecomment-104936085
+
 ## Videos
 
 https://www.youtube.com/watch?v=9sc8Pyc51uU
