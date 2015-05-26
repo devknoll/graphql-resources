@@ -52,6 +52,10 @@ https://github.com/RickWong/react-transmit
 
 ## Upcoming
 
+Laney Kuenzel is giving a talk on mutations and subscriptions in Relay at JSConf US 2015:
+
+http://2015.jsconf.us/speakers.html#kuenzel
+
 Nick Schrock and Dan Schafer are giving a talk at React Europe:
 
 https://www.react-europe.org/#graphQL-anchor
