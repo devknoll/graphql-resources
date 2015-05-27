@@ -22,6 +22,10 @@ https://github.com/facebook/react/pull/3920#issuecomment-104711512
 https://github.com/facebook/react/pull/3920#issuecomment-104885884
 https://github.com/facebook/react/pull/3920#issuecomment-104936085
 
+Laney Kuenzel gave a talk on mutations and subscriptions in Relay at JSConf US 2015:
+
+[Transcript](https://gist.github.com/mfunkie/65e94f42fee3962b1703)
+
 ## Videos
 
 https://www.youtube.com/watch?v=9sc8Pyc51uU
@@ -57,10 +61,6 @@ A GraphQL alternative using promises:
 https://github.com/RickWong/react-transmit
 
 ## Upcoming
-
-Laney Kuenzel is giving a talk on mutations and subscriptions in Relay at JSConf US 2015:
-
-http://2015.jsconf.us/speakers.html#kuenzel
 
 Nick Schrock and Dan Schafer are giving a talk at React Europe:
 
