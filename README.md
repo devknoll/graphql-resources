@@ -25,6 +25,7 @@ https://github.com/facebook/react/pull/3920#issuecomment-104936085
 Laney Kuenzel gave a talk on mutations and subscriptions in Relay at JSConf US 2015:
 
 [Slides](https://speakerdeck.com/laneyk/mutations-in-relay)
+
 [Transcript](https://gist.github.com/mfunkie/65e94f42fee3962b1703) (Thanks [@mfunkie](https://github.com/mfunkie)!)
 
 ## Videos
