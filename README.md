@@ -66,7 +66,7 @@ https://github.com/RickWong/react-transmit
 
 Lee Byron is giving a talk at React Europe about "Exploring GraphQL":
 
-https://www.react-europe.org/
+https://www.react-europe.org/#exploring-graphQL-anchor
 
 Nick Schrock and Dan Schafer are giving a talk at React Europe about implementing a GraphQL server:
 
