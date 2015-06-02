@@ -64,7 +64,11 @@ https://github.com/RickWong/react-transmit
 
 ## Upcoming
 
-Nick Schrock and Dan Schafer are giving a talk at React Europe:
+Lee Byron is giving a talk at React Europe about "Exploring GraphQL":
+
+https://www.react-europe.org/
+
+Nick Schrock and Dan Schafer are giving a talk at React Europe about implementing a GraphQL server:
 
 https://www.react-europe.org/#graphQL-anchor
 
