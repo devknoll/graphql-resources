@@ -62,6 +62,10 @@ A GraphQL alternative using promises:
 
 https://github.com/RickWong/react-transmit
 
+A Java implementation of GraphQL:
+
+https://github.com/andimarek/graphql-java
+
 ## Upcoming
 
 Lee Byron is giving a talk at React Europe about "Exploring GraphQL":
