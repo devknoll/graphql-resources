@@ -42,6 +42,8 @@ http://www.stitcher.com/podcast/ruby-rogues/javascript-jabber/e/152-jsj-graphql-
 
 ## Projects
 
+[graphql-tlc](https://github.com/johanatan/graphql-type-lang-compiler): A simpler interface to GraphQL.
+
 A Rails implementation of GraphQL:
 
 https://github.com/rmosolgo/graphql-ruby
