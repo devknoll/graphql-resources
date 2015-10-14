@@ -34,6 +34,10 @@ https://www.youtube.com/watch?v=9sc8Pyc51uU
 
 https://www.youtube.com/watch?v=X6YbAKiLCLU
 
+## Courses / Lessons
+
+* [Let's Learn GraphQL](https://learngraphql.com/)
+
 ## Podcasts
 
 Nick Schrock and Joe Savona talk GraphQL/Relay:
